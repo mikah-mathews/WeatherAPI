@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _{Weather API Practice}_
 
-#### By Jase Seeley
+#### By Mikah Mathews and Ryan Spencer
 
-#### _{Brief description of application}_
+#### _{Show Weather}_
 
 ## Technologies Used
 * HTML
@@ -21,11 +21,11 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_{Practice using and displaying data with a weather API}_
 
 ## Setup/Installation Requirements
 
-* Visit https://jcseeley.github.io/
+* Visit https://mikah-mathews.github.io/
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
 * Open the index.html file in your browser.
@@ -47,6 +47,6 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 MIT
 
-Copyright (c) 2022 Jase Seeley  
+Copyright (c) 2022 Mikah Mathews & Ryan Spencer
   
-  ## Tests
+## Tests
